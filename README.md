@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Igor Cruz</h1>
 <h3 align="center">A passionate full-stack student developer.</h3>
 
-- 🌱 I’m currently learning **React and Redux**
+- 🌱 I’m currently learning **Backend skills like Docker, Mongodb, MySQL**
 
 - 📫 How to reach me **igorcruz001@gmail.com**
 
