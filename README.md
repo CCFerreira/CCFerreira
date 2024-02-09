@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Igor Cruz</h1>
 <h3 align="center">A passionate Data Engineer student.</h3>
 
-- 🌱 I’m currently learning **Data skills like Python, Spark, SnowFlake, Cloud and others **
+- 🌱 I’m currently learning **Data Engineering skills like Python, Spark, Terraform, Cloud and others **
 
 - 📫 How to reach me **igorcruz001@gmail.com**
 
